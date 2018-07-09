@@ -1,1 +1,1 @@
-#quang oc cho lan 1
+#day code lan 1
